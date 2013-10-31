@@ -1,0 +1,25 @@
+4
+
+2 3
+Times
+Herald-Tribune
+Post
+New Advocate
+
+1 3
+Times
+Herald-Tribune
+Post
+New Advocate
+
+1 4
+Times
+Herald-Tribune
+Post
+New Advocate
+
+*
+Times
+Herald-Tribune
+Post
+New Advocate

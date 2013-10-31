@@ -1,0 +1,8 @@
+Solutions to various UVA Online Judge problems, written in C++. 
+Example input cases are provided - example output cases can be generated and written to output.txt.
+
+Compilation:
+g++ <filename>
+
+Execution:
+./a.out < input.txt > output.txt

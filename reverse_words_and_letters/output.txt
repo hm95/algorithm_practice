@@ -1,0 +1,2 @@
+The original string is my career stack
+The reversed string is ym reerac kcats 

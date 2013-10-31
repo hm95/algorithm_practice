@@ -1,0 +1,3 @@
+At 1,1 facing east
+From 1,1 facing east can get to 1,4 facing east
+1
